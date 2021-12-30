@@ -1,0 +1,44 @@
+.contactpage {
+  max-width: 1600px;
+  min-height: 50vh;
+  margin: 100px auto;
+  padding: 0 40px;
+}
+
+.contact-w {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  gap: 8px;
+}
+.contact-w span {
+  flex-basis: 100%;
+}
+.contactpage p {
+  margin-bottom: 25px;
+}
+.contact-icon {
+  margin-right: 4px;
+  font-size: 24px;
+  line-height: 24px;
+  vertical-align: middle;
+}
+
+.container-cn {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.contact-w a {
+  background-color: var(--white);
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 5px;
+  line-height: 30px;
+}

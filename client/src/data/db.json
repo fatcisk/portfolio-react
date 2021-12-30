@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "title": "Send a message through ethereum blockchain",
+      "description": "In this Web 3.0 project, I created a simple dapp that uses Ethereum blockchain. The dapp was deployed on Rinkeby testnet with hardhat. Smart Contract was written in Solidity. In the front-end, I used React and to connect to the blockchain I used Ethers.js which is an alternative to Web3.js. Metamask is the provider in this dapp. After connecting your wallet with Metamask, you enter a message which will be stored in the blockchain, hitting the wave button is going to trigger Metamask to confirm your transaction. If you refresh the page after your transaction was mined, you will see your message which was fetched from the blockchain. You will also see other messages that were sent by other wallets.",
+      "github": "https://github.com/fatihcnn/simple-dapp-ethereum",
+      "ad": ".6s",
+      "images": [
+        "/images/1-4.png",
+        "/images/1-1.png",
+        "/images/1-2.png",
+        "/images/1-3.png",
+        "/images/1-5.png"
+      ],
+      "tags": [
+        "Solidity",
+        "Ethers.js",
+        "React",
+        "Javascript",
+        "Ethereum",
+        "Smart Contracts",
+        "Hardhat",
+        "Metamask",
+        "Rinkeby Testnet"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Covid 19 Realtime Tracker",
+      "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
+      "github": "#",
+      "ad": ".7s",
+      "images": [
+        "https://picsum.photos/500/300?random=2",
+        "https://picsum.photos/500/300?random=3",
+        "https://picsum.photos/500/300?random=4"
+      ],
+      "tags": ["React", "Web3"]
+    },
+    {
+      "id": 2,
+      "title": "Covid 19 Realtime Tracker",
+      "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
+      "github": "#",
+      "ad": ".8s",
+      "images": [
+        "https://picsum.photos/500/300?random=3",
+        "https://picsum.photos/500/300?random=4"
+      ],
+      "tags": ["React", "Node.js"]
+    },
+    {
+      "id": 3,
+      "title": "Covid 19 Realtime Tracker",
+      "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
+      "github": "#",
+      "ad": ".9s",
+      "images": [
+        "https://picsum.photos/500/300?random=4",
+        "https://picsum.photos/500/300?random=5"
+      ],
+      "tags": ["React", "Web3", "Node.js"]
+    },
+    {
+      "id": 4,
+      "title": "Covid 19 Realtime Tracker",
+      "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
+      "github": "#",
+      "ad": "1s",
+      "images": [
+        "https://picsum.photos/500/300?random=5",
+        "https://picsum.photos/500/300?random=6"
+      ],
+      "tags": ["React", "Web3", "Node.js"]
+    },
+    {
+      "id": 5,
+      "title": "Covid 19 Realtime Tracker",
+      "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
+      "github": "#",
+      "ad": "1.1s",
+      "images": [
+        "https://picsum.photos/500/300?random=6",
+        "https://picsum.photos/500/300?random=7"
+      ],
+      "tags": ["React", "Web3", "Node.js"]
+    },
+    {
+      "id": 6,
+      "title": "Covid 19 Realtime Tracker",
+      "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
+      "github": "#",
+      "ad": "1.2s",
+      "images": [
+        "https://picsum.photos/500/300?random=7",
+        "https://picsum.photos/500/300?random=9"
+      ],
+      "tags": ["React", "Web3", "Node.js"]
+    }
+  ]
+}

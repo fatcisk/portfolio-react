@@ -1,0 +1,24 @@
+.footer {
+  max-width: 1600px;
+  padding: 0 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0 auto;
+}
+
+.credit {
+  color: #c2c2c2;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.credit-span {
+  font-weight: 500;
+  transition: 0.2s;
+}
+
+.credit:hover .credit-span {
+  color: cornflowerblue;
+}

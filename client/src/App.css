@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap");
+:root {
+  --white: #fff;
+  --cream: #f6f4f4;
+  --dark: #adadad;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Nunito", sans-serif;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.App {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url(./images/background.svg);
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0 40px 0;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  animation: overlayout 2s forwards cubic-bezier(0.65, 0.05, 0, 1.07);
+}
+
+@keyframes overlayout {
+  to {
+    left: -100%;
+    background-color: #f6f4f4;
+  }
+}
+
+@media all and (max-width: 1024px) {
+  .portfolio {
+    grid-template-columns: auto auto;
+  }
+
+  .my-image {
+    max-width: 220px;
+  }
+}
+
+@media all and (max-width: 600px) {
+  .App {
+    padding: 80px 0 40px 0 !important;
+  }
+  .portfolio {
+    grid-template-columns: auto;
+    padding: 0 20px;
+    margin: 0;
+    margin-bottom: 70px;
+  }
+  .content {
+    max-width: 100%;
+  }
+  .navbar {
+    display: none !important;
+  }
+  .mobile-navbar {
+    display: flex !important;
+  }
+  .footer {
+    padding: 0 25px !important;
+  }
+
+  .portfolio-item {
+    margin-top: 0;
+    padding: 0 20px;
+  }
+
+  .navbar-fixed {
+    display: none !important;
+  }
+
+  .item-images img {
+    min-width: 100%;
+    border-radius: 10px;
+  }
+
+  .summary {
+    grid-template-columns: auto;
+  }
+
+  .my-image {
+    max-width: 100%;
+  }
+
+  .about-container {
+    margin-top: 0;
+    margin-bottom: 70px;
+    padding: 0 20px;
+  }
+
+  .contactpage {
+    margin-top: 0;
+    margin-bottom: 70px;
+    padding: 0 20px;
+  }
+}
