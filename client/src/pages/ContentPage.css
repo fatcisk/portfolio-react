@@ -75,7 +75,7 @@
   color: white;
   padding: 6px 16px;
   border-radius: 5px;
-  background-color: var(--cream);
+  background-color: black;
   background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }

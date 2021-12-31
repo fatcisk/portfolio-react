@@ -31,12 +31,8 @@
       "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
       "github": "#",
       "ad": ".7s",
-      "images": [
-        "https://picsum.photos/500/300?random=2",
-        "https://picsum.photos/500/300?random=3",
-        "https://picsum.photos/500/300?random=4"
-      ],
-      "tags": ["React", "Web3"]
+      "images": ["/images/covidtracker.png"],
+      "tags": ["HTML", "CSS", "Javascript", "API"]
     },
     {
       "id": 2,
@@ -44,58 +40,16 @@
       "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
       "github": "#",
       "ad": ".8s",
-      "images": [
-        "https://picsum.photos/500/300?random=3",
-        "https://picsum.photos/500/300?random=4"
-      ],
-      "tags": ["React", "Node.js"]
+      "images": ["/images/sp-page.png"],
+      "tags": ["HTML", "CSS"]
     },
     {
       "id": 3,
-      "title": "Covid 19 Realtime Tracker",
+      "title": "Fullstack e-commerce",
       "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
       "github": "#",
       "ad": ".9s",
-      "images": [
-        "https://picsum.photos/500/300?random=4",
-        "https://picsum.photos/500/300?random=5"
-      ],
-      "tags": ["React", "Web3", "Node.js"]
-    },
-    {
-      "id": 4,
-      "title": "Covid 19 Realtime Tracker",
-      "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
-      "github": "#",
-      "ad": "1s",
-      "images": [
-        "https://picsum.photos/500/300?random=5",
-        "https://picsum.photos/500/300?random=6"
-      ],
-      "tags": ["React", "Web3", "Node.js"]
-    },
-    {
-      "id": 5,
-      "title": "Covid 19 Realtime Tracker",
-      "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
-      "github": "#",
-      "ad": "1.1s",
-      "images": [
-        "https://picsum.photos/500/300?random=6",
-        "https://picsum.photos/500/300?random=7"
-      ],
-      "tags": ["React", "Web3", "Node.js"]
-    },
-    {
-      "id": 6,
-      "title": "Covid 19 Realtime Tracker",
-      "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
-      "github": "#",
-      "ad": "1.2s",
-      "images": [
-        "https://picsum.photos/500/300?random=7",
-        "https://picsum.photos/500/300?random=9"
-      ],
+      "images": ["/images/ecommerce1.png"],
       "tags": ["React", "Web3", "Node.js"]
     }
   ]
