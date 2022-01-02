@@ -22,7 +22,7 @@
   }
 }
 
-/* .content::before {
+.content::before {
   content: "";
   position: absolute;
   bottom: 0;
@@ -35,7 +35,7 @@
   -webkit-backdrop-filter: blur(12px);
   pointer-events: none;
   transition: 0.3s;
-} */
+}
 
 .tags {
   position: absolute;

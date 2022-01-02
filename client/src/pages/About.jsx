@@ -7,7 +7,7 @@ export default function About() {
       <div className="summary">
         <div className="my-image">
           <img src="/images/author.jpg" alt="" />
-      </div>
+        </div>
         <div className="details">
           <h2>
             I am a blockchain developer who have a passion for making difference
@@ -46,15 +46,15 @@ export default function About() {
           <img src="/images/icons/nodejs.png" alt="" />
           <span>Node.js</span>
         </span>
-        <span className="skill" style={{ animationDelay: "1.1s" }}>
+        <span className="skill" style={{ animationDelay: "0.85s" }}>
           <img src="/images/icons/mongo.png" alt="" />
           <span>MongoDB</span>
         </span>
-        <span className="skill" style={{ animationDelay: "0.85s" }}>
+        <span className="skill" style={{ animationDelay: "0.9s" }}>
           <img src="/images/icons/ethereum.png" alt="" />
           <span>Ethereum</span>
         </span>
-        <span className="skill" style={{ animationDelay: "0.9s" }}>
+        <span className="skill" style={{ animationDelay: "0.95s" }}>
           <img src="/images/icons/solidity.svg" alt="" />
           <span>Solidity</span>
         </span>
@@ -62,23 +62,23 @@ export default function About() {
           <img src="/images/icons/hardhat.png" alt="" />
           <span>Hardhat</span>
         </span>
-        <span className="skill" style={{ animationDelay: "1s" }}>
+        <span className="skill" style={{ animationDelay: "1.05s" }}>
           <img src="/images/icons/truffle.png" alt="" />
           <span>Truffle</span>
         </span>
-        <span className="skill" style={{ animationDelay: "0.95s" }}>
+        <span className="skill" style={{ animationDelay: "1.1s" }}>
           <img src="/images/icons/metamask.png" alt="" />
           <span>Metamask</span>
         </span>
-        <span className="skill" style={{ animationDelay: "1.05s" }}>
+        <span className="skill" style={{ animationDelay: "1.15s" }}>
           <img src="/images/icons/git.png" alt="" />
           <span>Git</span>
         </span>
-        <span className="skill" style={{ animationDelay: "1.15s" }}>
+        <span className="skill" style={{ animationDelay: "1.2s" }}>
           <img src="/images/icons/figma.png" alt="" />
           <span>Figma</span>
         </span>
-        <span className="skill" style={{ animationDelay: "1.15s" }}>
+        <span className="skill" style={{ animationDelay: "1.25s" }}>
           <span style={{ color: "gray" }}>and more...</span>
         </span>
       </div>

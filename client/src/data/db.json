@@ -36,7 +36,7 @@
     },
     {
       "id": 2,
-      "title": "Covid 19 Realtime Tracker",
+      "title": "Developer Personal Portfolio",
       "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
       "github": "",
       "ad": ".8s",
@@ -45,7 +45,7 @@
     },
     {
       "id": 3,
-      "title": "Covid 19 Realtime Tracker",
+      "title": "Product Social Proof Page",
       "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
       "github": "",
       "ad": ".8s",
@@ -59,21 +59,16 @@
       "github": "",
       "ad": ".9s",
       "images": ["/images/ecommerce1.png"],
-      "tags": ["React", "Web3", "Node.js"]
+      "tags": ["React", "Nodejs", "Axios", "HTML", "CSS", "Javascript"]
     },
     {
       "id": 5,
-      "title": "Fullstack e-commerce",
+      "title": "Mobile Design - Victhor",
       "description": "Hello this is description of content number 1 || Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatibus consequuntur corrupti officiis cumque totam mollitia, cupiditate eveniet molestias! Saepe quaerat quae sed explicabo inventore? Voluptatibus itaque quaerat, temporibus commodi sint in, laudantium dolorum adipisci blanditiis ad delectus corporis error consequuntur maxime quis soluta dignissimos voluptate, recusandae nobis incidunt cumque.",
       "github": "",
       "ad": "1s",
-      "images": [
-        "/images/2-1.png",
-        "/images/2-2.png",
-        "/images/2-3.png",
-        "/images/2-4.png"
-      ],
-      "tags": ["React", "Web3", "Node.js"]
+      "images": ["/images/2-1.png", "/images/2-2.png", "/images/2-3.png"],
+      "tags": ["React Native", "HTML", "CSS", "Javascript"]
     }
   ]
 }
