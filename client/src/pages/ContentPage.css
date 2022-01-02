@@ -51,7 +51,8 @@
 .item-images img {
   max-width: 410px;
   border-radius: 10px;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  filter: contrast(0.85);
+  -webkit-filter: contrast(0.85);
 }
 
 @keyframes overlayout {
