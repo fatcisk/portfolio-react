@@ -128,6 +128,7 @@ export default function Navbar(props) {
           fatihcan.
         </a>
       </div>
+      <div className="mn-placeholder"></div>
       <div className="mobile-navbar">
         <a href="/portfolio" className="text-logo">
           fatihcan.

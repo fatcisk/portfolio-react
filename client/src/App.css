@@ -65,12 +65,12 @@ body::-webkit-scrollbar {
 
 @media all and (max-width: 600px) {
   .App {
-    padding: 80px 0 40px 0 !important;
+    padding: 0 !important;
   }
   .portfolio {
     grid-template-columns: auto;
     padding: 0 20px;
-    margin: 0;
+    margin-top: 26px;
     margin-bottom: 70px;
   }
   .content {
@@ -81,6 +81,9 @@ body::-webkit-scrollbar {
   }
   .mobile-navbar {
     display: flex !important;
+  }
+  .mn-placeholder {
+    display: block !important;
   }
   .footer {
     padding: 0 25px !important;
