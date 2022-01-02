@@ -11,18 +11,22 @@ export default function ContentPage() {
     <div className="portfolio-item">
       <h1 className="item-header">{contentData.title}</h1>
       <p className="item-description">{contentData.description}</p>
-      <div className="project-rew">
-        <h4>Check this project on:</h4>
-        <a href={contentData.github} target="_blank">
-          <span>
-            <BsGithub />
-          </span>
-          Github
-        </a>
-      </div>
+      {contentData.github != "" ? (
+        <div className="project-rew">
+          <h4>Check this project on:</h4>
+          <a href={contentData.github} target="_blank">
+            <span>
+              <BsGithub />
+            </span>
+            Github
+          </a>
+        </div>
+      ) : (
+        <></>
+      )}
       <div className="item-images">
         {data.contents[id].images.map((image) => (
-          <img src={image} alt="" />
+          <img src={image} alt="" loading="lazy" />
         ))}
       </div>
       <h1>Technologies used</h1>

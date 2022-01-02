@@ -11,14 +11,12 @@ import { useLocation } from "react-router-dom";
 
 export default function Navbar(props) {
   const currentPath = useLocation().pathname;
-
   const handleOpenSidebar = () => {
     document.querySelector(".sidebar").style.left = 0;
   };
   const handleCloseSidebar = () => {
     document.querySelector(".sidebar").style.left = "100%";
   };
-
   window.addEventListener("scroll", () => {
     if (window.pageYOffset >= 140) {
       document.querySelector(".navbar-fixed").style.top = 0;
@@ -103,7 +101,6 @@ export default function Navbar(props) {
         >
           CONTACT
         </a>
-        {/* <span className="open-to-work">#OpentoWork!</span> */}
         <span className="social-links">
           <a
             href="https://www.linkedin.com/in/fatihcnn/"
@@ -139,22 +136,22 @@ export default function Navbar(props) {
           <HiOutlineMenuAlt3 />
         </i>
       </div>
-      <div class="navbar-fixed">
+      <div className="navbar-fixed">
         <a
           href="/portfolio"
-          class={`${currentPath == "/portfolio" ? "active-link" : <></>} `}
+          className={`${currentPath == "/portfolio" ? "active-link" : <></>} `}
         >
           WORK
         </a>
         <a
           href="/about"
-          class={`${currentPath == "/about" ? "active-link" : <></>} `}
+          className={`${currentPath == "/about" ? "active-link" : <></>} `}
         >
           ABOUT
         </a>
         <a
           href="/contact"
-          class={`${currentPath == "/contact" ? "active-link" : <></>} `}
+          className={`${currentPath == "/contact" ? "active-link" : <></>} `}
         >
           CONTACT
         </a>

@@ -1,10 +1,5 @@
 import React from "react";
 import "./Footer.css";
-import {
-  AiFillLinkedin,
-  AiOutlineGithub,
-  AiOutlineTwitter,
-} from "react-icons/ai";
 
 export default function Footer() {
   return (

@@ -7,7 +7,7 @@ export default function About() {
       <div className="summary">
         <div className="my-image">
           <img src="/images/author.jpg" alt="" />
-        </div>
+      </div>
         <div className="details">
           <h2>
             I am a blockchain developer who have a passion for making difference
