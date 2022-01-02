@@ -11,6 +11,7 @@
   transform: scale(0.4);
   left: 1000px;
   transition: 1s;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 @keyframes opening {
