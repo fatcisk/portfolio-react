@@ -1,11 +1,7 @@
 import React from "react";
 import "./Contact.css";
 import { HiOutlineMail } from "react-icons/hi";
-import {
-  AiFillLinkedin,
-  AiOutlineGithub,
-  AiOutlineTwitter,
-} from "react-icons/ai";
+import { AiFillLinkedin, AiOutlineTwitter } from "react-icons/ai";
 
 export default function Contact() {
   return (
@@ -31,7 +27,7 @@ export default function Contact() {
           <a
             style={{ backgroundColor: "cornflowerblue" }}
             className="contact-link"
-            href="https://twitter.com/fatihcisk"
+            href="https://twitter.com/fatihdev_"
           >
             {" "}
             <span className="contact-icon">
