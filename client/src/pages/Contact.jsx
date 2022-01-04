@@ -33,7 +33,7 @@ export default function Contact() {
             <span className="contact-icon">
               <AiOutlineTwitter />
             </span>
-            @fatihcisk
+            @faticnn
           </a>
         </span>
         <span className="container-cn">
