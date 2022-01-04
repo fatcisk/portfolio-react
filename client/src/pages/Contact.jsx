@@ -27,7 +27,7 @@ export default function Contact() {
           <a
             style={{ backgroundColor: "cornflowerblue" }}
             className="contact-link"
-            href="https://twitter.com/fatihdev_"
+            href="https://twitter.com/faticnn"
           >
             {" "}
             <span className="contact-icon">

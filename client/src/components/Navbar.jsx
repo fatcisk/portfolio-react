@@ -68,7 +68,7 @@ export default function Navbar(props) {
             <AiOutlineGithub />
           </a>
           <a
-            href="https://twitter.com/fatihdev_"
+            href="https://twitter.com/faticnn"
             target="_blank"
             className="fab fa-twitter link link-sidebar"
           >
@@ -117,7 +117,7 @@ export default function Navbar(props) {
             <AiOutlineGithub />
           </a>
           <a
-            href="https://twitter.com/fatihdev_"
+            href="https://twitter.com/faticnn"
             target="_blank"
             className="fab fa-twitter link"
           >
