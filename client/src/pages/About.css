@@ -33,7 +33,6 @@
   max-width: 980px;
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
 }
 
 .skills-header {
@@ -55,6 +54,8 @@
   border-radius: 5px;
   transform: scale(0);
   opacity: 0;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 @keyframes skills {

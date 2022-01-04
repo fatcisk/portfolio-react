@@ -50,6 +50,7 @@
 
 .item-images img {
   max-width: 410px;
+  aspect-ratio: 16/9;
   border-radius: 10px;
   filter: contrast(0.85);
   -webkit-filter: contrast(0.85);
@@ -67,7 +68,6 @@
   margin-top: 25px;
   display: flex;
   flex-wrap: wrap;
-  gap: 4px;
 }
 
 .technologies-used span {
@@ -79,4 +79,6 @@
   background-color: black;
   background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin-right: 4px;
+  margin-bottom: 4px;
 }
