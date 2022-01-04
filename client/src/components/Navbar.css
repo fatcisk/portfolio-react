@@ -125,7 +125,7 @@
   display: none;
   justify-content: space-between;
   align-items: center;
-  position: sticky;
+  position: fixed;
   left: 0;
   top: 0;
   z-index: 5;

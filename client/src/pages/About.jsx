@@ -10,17 +10,19 @@ export default function About() {
         </div>
         <div className="details">
           <h2>
-            I am a blockchain developer who have a passion for making difference
-            in others life by creating software.
+            I am a solution-oriented Blockchain Developer, who has a passion for
+            solving problems in technical ways.
           </h2>
           <p>
-            I love building software, first started when I was 13 years old,
-            created mobile games with unity also shared them on social media
-            (fun fact, now I have 90k subscribers on youtube). And then, I
-            decided create a website for my subscribers to let them be able to
-            download my games and also other developers' games. Since then I
-            experienced various technologies in web development. Now, I am 18
-            and into blockchain development which is appeals to me so exciting.
+            I love building software, first started when I was 13 years old, I
+            have created mobile games with unity also have shared them on my
+            youtube channel which has reached to 90K subscribers. My web
+            development experience comes from 3 years ago when I decided to make
+            a website for my subscribers to let them be able to download my
+            games, also other developers' games easily. Now I am into blockchain
+            development, I create web 3.0 dApps and solidity smart contracts
+            that run on top of the ethereum blockchain. I am also really
+            interested in DeFi and NFT world.
           </p>
         </div>
       </div>
@@ -42,21 +44,41 @@ export default function About() {
           <img src="/images/icons/react.png" alt="" />
           <span>React</span>
         </span>
+        <span className="skill" style={{ animationDelay: "0.75s" }}>
+          <img
+            src="/images/icons/react.png"
+            alt=""
+            style={{ filter: "hue-rotate(70deg)" }}
+          />
+          <span>React Native</span>
+        </span>
         <span className="skill" style={{ animationDelay: "0.8s" }}>
           <img src="/images/icons/nodejs.png" alt="" />
           <span>Node.js</span>
-        </span>
-        <span className="skill" style={{ animationDelay: "0.85s" }}>
-          <img src="/images/icons/mongo.png" alt="" />
-          <span>MongoDB</span>
         </span>
         <span className="skill" style={{ animationDelay: "0.9s" }}>
           <img src="/images/icons/ethereum.png" alt="" />
           <span>Ethereum</span>
         </span>
+        <span className="skill" style={{ animationDelay: "0.9s" }}>
+          <img src="/images/icons/smc.jpg" alt="" />
+          <span>Smart Contracts</span>
+        </span>
         <span className="skill" style={{ animationDelay: "0.95s" }}>
           <img src="/images/icons/solidity.svg" alt="" />
           <span>Solidity</span>
+        </span>
+        <span className="skill" style={{ animationDelay: "0.95s" }}>
+          <img src="/images/icons/web3js.png" alt="" />
+          <span>Web3.js</span>
+        </span>
+        <span className="skill" style={{ animationDelay: "0.95s" }}>
+          <img src="/images/icons/ethersjs.png" alt="" />
+          <span>Ethers.js</span>
+        </span>
+        <span className="skill" style={{ animationDelay: "1.1s" }}>
+          <img src="/images/icons/metamask.png" alt="" />
+          <span>Metamask</span>
         </span>
         <span className="skill" style={{ animationDelay: "1s" }}>
           <img src="/images/icons/hardhat.png" alt="" />
@@ -66,9 +88,9 @@ export default function About() {
           <img src="/images/icons/truffle.png" alt="" />
           <span>Truffle</span>
         </span>
-        <span className="skill" style={{ animationDelay: "1.1s" }}>
-          <img src="/images/icons/metamask.png" alt="" />
-          <span>Metamask</span>
+        <span className="skill" style={{ animationDelay: "0.85s" }}>
+          <img src="/images/icons/mongo.png" alt="" />
+          <span>MongoDB</span>
         </span>
         <span className="skill" style={{ animationDelay: "1.15s" }}>
           <img src="/images/icons/git.png" alt="" />
@@ -77,9 +99,6 @@ export default function About() {
         <span className="skill" style={{ animationDelay: "1.2s" }}>
           <img src="/images/icons/figma.png" alt="" />
           <span>Figma</span>
-        </span>
-        <span className="skill" style={{ animationDelay: "1.25s" }}>
-          <span style={{ color: "gray" }}>and more...</span>
         </span>
       </div>
     </div>

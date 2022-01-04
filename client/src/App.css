@@ -31,7 +31,7 @@ body::-webkit-scrollbar {
   background-image: url(./images/background.svg);
   background-size: cover;
   background-position: center;
-  padding: 100px 0 40px 0;
+  padding: 80px 0 40px 0;
 }
 
 .overlay {
@@ -64,13 +64,10 @@ body::-webkit-scrollbar {
 }
 
 @media all and (max-width: 600px) {
-  .App {
-    padding: 0 !important;
-  }
   .portfolio {
     grid-template-columns: auto;
     padding: 0 20px;
-    margin-top: 26px;
+    margin-top: 0;
     margin-bottom: 70px;
   }
   .content {
