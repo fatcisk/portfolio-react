@@ -131,7 +131,7 @@ export default function Navbar(props) {
       <div className="mn-placeholder"></div>
       <div className="mobile-navbar">
         <a href="/portfolio" className="text-logo">
-          fatihcan.
+          fatihdev.
         </a>
         <i className="fas fa-bars" onClick={handleOpenSidebar}>
           <HiOutlineMenuAlt3 />
