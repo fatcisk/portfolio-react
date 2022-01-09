@@ -125,7 +125,7 @@ export default function Navbar(props) {
           </a>
         </span>
         <a href="/portfolio" className="text-logo route-link">
-          fatihcan.
+          fatihdev.
         </a>
       </div>
       <div className="mn-placeholder"></div>

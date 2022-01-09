@@ -37,7 +37,7 @@
     {
       "id": 2,
       "title": "Developer Personal Portfolio",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim dolores cumque commodi? Provident enim voluptatum veritatis sunt qui aliquid sit libero hic? Doloribus, ducimus? Rem, sunt consequatur. Consectetur aspernatur perferendis eum eligendi, magnam voluptatibus neque, porro, officiis temporibus adipisci eveniet!",
+      "description": "A simple, minimalistic, modern personal portfolio website for software developers",
       "github": "",
       "ad": "1.3s",
       "images": ["/images/4-1.png", "/images/4-2.png", "/images/4-3.png"],
@@ -46,7 +46,7 @@
     {
       "id": 3,
       "title": "Product Social Proof Page",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim dolores cumque commodi? Provident enim voluptatum veritatis sunt qui aliquid sit libero hic? Doloribus, ducimus? Rem, sunt consequatur. Consectetur aspernatur perferendis eum eligendi, magnam voluptatibus neque, porro, officiis temporibus adipisci eveniet!",
+      "description": "A quite small project that I made with only using HTML and CSS. The design is very modern, minimalistic and good looking. The original source of this project is frontend mentor.",
       "github": "",
       "ad": "1.4s",
       "images": ["/images/sp-page.png"],
@@ -55,20 +55,29 @@
     {
       "id": 4,
       "title": "Fullstack e-commerce",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim dolores cumque commodi? Provident enim voluptatum veritatis sunt qui aliquid sit libero hic? Doloribus, ducimus? Rem, sunt consequatur. Consectetur aspernatur perferendis eum eligendi, magnam voluptatibus neque, porro, officiis temporibus adipisci eveniet!",
+      "description": "This real world project is a mern-stack e-commerce website that I created for my future plans. I used various technologies such as express.js, react router, postman, mongoDB, axios.",
       "github": "",
       "ad": "1.5s",
       "images": ["/images/ecommerce1.png"],
-      "tags": ["React", "Nodejs", "Axios", "HTML", "CSS", "Javascript"]
+      "tags": [
+        "React",
+        "Javascript",
+        "Nodejs",
+        "Express.js",
+        "HTML",
+        "CSS",
+        "Axios",
+        "MongoDB"
+      ]
     },
     {
       "id": 5,
       "title": "Mobile Design - Victhor",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim dolores cumque commodi? Provident enim voluptatum veritatis sunt qui aliquid sit libero hic? Doloribus, ducimus? Rem, sunt consequatur. Consectetur aspernatur perferendis eum eligendi, magnam voluptatibus neque, porro, officiis temporibus adipisci eveniet!",
+      "description": "A concept mobile design for a news website",
       "github": "",
       "ad": "1.6s",
       "images": ["/images/2-1.png", "/images/2-2.png", "/images/2-3.png"],
-      "tags": ["React Native", "HTML", "CSS", "Javascript"]
+      "tags": ["React Native", "Expo CLI"]
     }
   ]
 }

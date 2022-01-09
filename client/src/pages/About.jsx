@@ -21,7 +21,7 @@ export default function About() {
             a website for my subscribers to let them be able to download my
             games, also other developers' games easily. Now I am into blockchain
             development, I create web 3.0 dApps and solidity smart contracts
-            that run on top of the ethereum blockchain. I am also really
+            that run on top of ethereum blockchain. I am also really
             interested in DeFi and NFT world.
           </p>
         </div>
