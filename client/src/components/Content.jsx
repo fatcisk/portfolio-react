@@ -9,7 +9,9 @@ export default function Content({ content, ad }) {
         <div className="title">{content.title}</div>
         <div className="tags">
           {content.tags.slice(0, 3).map((tag) => (
-            <span key={tag}>{tag}</span>
+            <span className={tag == "NFT" ? "nft-tag" : ""} key={tag}>
+              {tag}
+            </span>
           ))}
         </div>
       </a>
