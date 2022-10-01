@@ -1,13 +1,13 @@
 {
   "contents": [
-    {
+        {
       "id": 0,
-      "title": "MetaPilots NFT",
-      "description": "MetaPilots are utility based 10.000 NFT that live in ethereum blockchain. I have created this project in production level, used solditiy for creating smart contracts. In front-end side I used ReactJS and to be able to interact with the blockchain from client side I used Ethers.js library. I designed all the pixel art by my self and layer by layer after that I used a script to combine all the layers with different traits which is extented to 10.000 unique NFTs. All the metadata of the NFTs are stored in IPFS. This project is live now check it out here : metapilotsnft.com",
+      "title": "NFT Creator App",
+      "description": "A fully decentralized NFT creator app, running on top of Ethereum Blockchain. Storing the NFTs on IPFS, a decentralized storage.",
       "github": "",
-      "live": "https://www.metapilotsnft.com",
+      "live": "https://www.nftartcreatorapp.com",
       "ad": "1s",
-      "images": ["/images/metapilots1.png", "/images/metapilots3.png"],
+      "images": ["/images/nft1.png", "/images/nft2.png"],
       "tags": [
         "NFT",
         "Solidity",
@@ -22,12 +22,32 @@
     },
     {
       "id": 1,
+      "title": "MetaPilots NFT",
+      "description": "MetaPilots are utility based 10.000 NFT that live in ethereum blockchain. I have created this project in production level, used solditiy for creating smart contracts. In front-end side I used ReactJS and to be able to interact with the blockchain from client side I used Ethers.js library. I designed all the pixel art by my self and layer by layer after that I used a script to combine all the layers with different traits which is extented to 10.000 unique NFTs. All the metadata of the NFTs are stored in IPFS. This project is live now check it out here : metapilotsnft.com",
+      "github": "",
+      "live": "https://www.metapilotsnft.com",
+      "ad": "1.1s",
+      "images": ["/images/metapilots1.png", "/images/metapilots3.png"],
+      "tags": [
+        "NFT",
+        "Solidity",
+        "Ethereum",
+        "React",
+        "IPFS",
+        "EthersJS",
+        "Smart Contracts",
+        "OpenZeppelin",
+        "ERC721"
+      ]
+    },
+    {
+      "id": 2,
       "title": "Send a message through ethereum blockchain",
       "description": "In this Web 3.0 project, I created a simple dapp that uses Ethereum blockchain. The dapp was deployed on Rinkeby testnet with hardhat. Smart Contract was written in Solidity. In the front-end, I used React and to connect to the blockchain I used Ethers.js which is an alternative to Web3.js. Metamask is the provider in this dapp. After connecting your wallet with Metamask, you enter a message which will be stored in the blockchain, hitting the wave button is going to trigger Metamask to confirm your transaction. If you refresh the page after your transaction was mined, you will see your message which was fetched from the blockchain. You will also see other messages that were sent by other wallets.",
       "github": "https://github.com/fatihcnn/simple-dapp-ethereum",
       "live": "",
       "live": "",
-      "ad": "1.1s",
+      "ad": "1.2s",
       "images": [
         "/images/1-4.png",
         "/images/1-1.png",
@@ -48,42 +68,42 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Covid 19 Realtime Tracker",
       "description": "When the corona epidemic started to spread, I decided to make a website that let people track covid 19 cases easily in my country. The data is fetched from a few different sources, mostly WHO and Turkey Ministry of Health.",
       "github": "https://github.com/fatihcnn/covidtracker",
       "live": "",
-      "ad": "1.2s",
+      "ad": "1.3s",
       "images": ["/images/3-1.png", "/images/3-2.png"],
       "tags": ["HTML", "CSS", "Javascript", "API"]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Developer Personal Portfolio",
       "description": "A simple, minimalistic, modern personal portfolio website for software developers",
       "github": "",
       "live": "",
-      "ad": "1.3s",
+      "ad": "1.4s",
       "images": ["/images/4-1.png", "/images/4-2.png", "/images/4-3.png"],
       "tags": ["HTML", "CSS", "Javascript"]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Product Social Proof Page",
       "description": "A quite small project that I made with only using HTML and CSS. The design is very modern, minimalistic and good looking. The original source of this project is frontend mentor.",
       "github": "",
       "live": "",
-      "ad": "1.4s",
+      "ad": "1.5s",
       "images": ["/images/sp-page.png"],
       "tags": ["HTML", "CSS"]
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Fullstack e-commerce",
       "description": "This real world project is a mern-stack e-commerce website that I created for my future plans. I used various technologies such as express.js, react router, postman, mongoDB, axios.",
       "github": "",
       "live": "",
-      "ad": "1.5s",
+      "ad": "1.6s",
       "images": ["/images/ecommerce1.png"],
       "tags": [
         "React",
@@ -97,12 +117,12 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Mobile Design - Victhor",
       "description": "A concept mobile design for a news website",
       "github": "",
       "live": "",
-      "ad": "1.6s",
+      "ad": "1.7s",
       "images": ["/images/2-1.png", "/images/2-2.png", "/images/2-3.png"],
       "tags": ["React Native", "Expo CLI"]
     }
